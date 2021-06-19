@@ -1,0 +1,38 @@
+.catalogue{
+    background: rgb(100,135,0);
+    background: linear-gradient(90deg, rgba(100,135,0,1) 0%, rgba(18,193,32,1) 48%, rgba(0,135,117,1) 100%);
+}
+.catalogue .list{
+  vertical-align: top;
+  margin: 0 13px;
+}
+.catalogue .card{
+    height: 340px;
+    width: 10rem;
+}
+.catalogue img{
+    height: 200px;
+}
+.catalogue .card-title{
+    margin-bottom: 0;
+    font-size: 1rem;
+    color: #7b2cbf;
+}
+.catalogue .card-body{
+    padding: .1rem
+}
+.catalogue p{
+    font-size: .9rem;
+    margin-bottom: 0;
+}
+.catalogue button{
+    font-size: .8rem;
+}
+@media (max-width: 575.98px) {
+    .catalogue .list{
+        margin: 0;
+    }
+    .catalogue .card{
+        width: 8rem;
+    }
+}

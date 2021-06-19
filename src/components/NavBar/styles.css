@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap");
+.navBar {
+  background: rgb(99, 0, 135);
+  background: linear-gradient(
+    90deg,
+    rgba(99, 0, 135, 1) 0%,
+    rgba(9, 9, 121, 1) 50%,
+    rgba(174, 102, 218, 1) 100%
+  );
+  font-family: "Orbitron", sans-serif;
+}
+.logo {
+  width: 200;
+}
+.nav-icons {
+  margin: auto 0.8rem;
+}
+@media (max-width: 575.98px) {
+  input.mr-sm-2.form-control {
+    width: 80%;
+    margin-right: 0.5rem;
+  }
+}

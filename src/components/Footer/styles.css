@@ -1,0 +1,32 @@
+.footer{
+    background: #ACE36A;
+    font-family: "Orbitron", sans-serif;
+}
+.footer h4{
+    text-align: center;
+    margin-top: 1rem;
+}
+.footer ul{
+    padding-left: 0 !important;
+}
+.rrss ul li{
+    list-style: none;
+}
+.rrss ul li a{
+    color: #7b2cbf;
+}
+.suscription input{
+    width: 100%;
+    padding: .5rem .2rem;
+    border-radius: 5px;
+}
+.credits{
+    background: #7b2cbf;
+}
+.credits a {
+    color: #fff;
+    text-decoration: underline;
+}
+.credits a:hover {
+    color: #ACE36A;
+}
