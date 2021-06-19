@@ -1,3 +1,7 @@
+Página web para practicar React, Hooks (useState, useEffect, useContext), React-Bootstrapy uso de Apis. Login sencillo, botón para agregar al carrito, entre otros detalles.
+<img src="./src/assets/home.png">
+<img src="./src/assets/catalogue.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# GameZtore
+Página web para practicar React, Hooks (useState, useEffect, useContext), React-Bootstrapy uso de Apis
